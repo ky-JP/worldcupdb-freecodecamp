@@ -1,2 +1,2 @@
 # worldcupdb-freecodecamp
-Second required project from freecodecamp to earn Relational Database certification
+Required project from freecodecamp to earn Relational Database certification
